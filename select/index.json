@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "クジラ",
+  "base_artist": "Hump Back",
+  "createdAt": "2026-01-06T09:35:43.956829Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "クジラ",
+      "artist": "INuya",
+      "has_synced": true,
+      "path": "select/01_クジラ_INuya.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "クジラ",
+      "artist": "Hump Back",
+      "has_synced": false,
+      "path": "select/pl_01_クジラ_Hump_Back.txt"
+    }
+  ]
+}
